@@ -1,12 +1,11 @@
 ### Hi, this is Jarvis73 👋
 
-![Jarvis73' Profile](https://github-readme-stats.vercel.app/api?username=Jarvis73&count_private=true&show_icons=true&theme=cobalt)
+![Jarvis73' Profile](https://github-readme-stats.vercel.app/api?username=Jarvis73&count_private=true&show_icons=true)
 
-- 🔭 I'm working on computer vision, few-shot learning and medical image analysis.
-- 😄 My personal blog: [Jarvis73](https://www.jarvis73.cn/)
-- 💬 Contact me: zjw.cs@zju.edu.cn
-- 🔭 I’m currently working on Few-Shot Learning & Image Segmentation
-
+- 🔭 I'm working on image segmentation in computer vision (medical image segmentation, few-shot segmentation, domain adaptation segmentation).
+- 😄 My personal blog: [Jarvis73](https://www.jarvis73.com/)
+- 📫 Contact me: zjw.cs@zju.edu.cn
+- ⚡ A simple but useful navigation webpage: [路灯](https://nav.jarvis73.com)
 
 <!--
 **Jarvis73/Jarvis73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
