@@ -3,7 +3,7 @@
 ![Jarvis73' Profile](https://github-readme-stats.vercel.app/api?username=Jarvis73&count_private=true&show_icons=true)
 
 - 🔭 I'm working on image segmentation in computer vision (medical image segmentation, few-shot segmentation, domain adaptation segmentation).
-- 😄 My personal blog: [Jarvis73](https://www.jarvis73.com/)
+- 😄 My blog: [Jarvis73](https://www.jarvis73.com/)
 - 📫 Contact me: zjw.cs@zju.edu.cn
 - ⚡ A simple but useful navigation webpage: [路灯](https://nav.jarvis73.com)
 
